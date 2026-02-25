@@ -88,6 +88,13 @@ Tables used:
 * Menu
 ---
 
+## 🗄 How to Setup Database
+
+1. Import restaurantdb.sql in MySQL.
+2. Update DBConnection.java credentials if needed.
+3. Run MainFrame.java.
+
+
 ##  Screenshots
 
 ### 🔹 MainFrame
